@@ -4,4 +4,4 @@ workspace.xml
 .gradle
 build
 local.properties
-.idea/
+.idea/**
