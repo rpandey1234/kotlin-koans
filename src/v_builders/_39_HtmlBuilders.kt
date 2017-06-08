@@ -24,7 +24,7 @@ fun renderProductTable(): String {
         table {
             tr(color = getTitleColor()) {
                 td {
-                    text("Product")
+                    text("Product Name")
                 }
                 td {
                     text("Price")
